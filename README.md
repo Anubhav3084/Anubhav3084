@@ -1,6 +1,6 @@
+<img align="right" alt="Coding" height="600" width="1200" src="https://miro.medium.com/max/1400/0*mP3RueuXTwHBj8Zd.gif">
 <h1 align="center">Hi 👋, I'm Anubhav Prasd</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="480" src="https://miro.medium.com/max/1400/0*mP3RueuXTwHBj8Zd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav3084&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav3084" /> </p>
 
